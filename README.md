@@ -1,10 +1,10 @@
 
 
-#Livro de Receitas 📖️
+# Livro de Receitas 📖️
 	
 Bem vindo ao livro de receitas
 
-###Receitas:
+### Receitas:
 
 1. Acarajé Baiano Tradicional
 2. Vatapá
